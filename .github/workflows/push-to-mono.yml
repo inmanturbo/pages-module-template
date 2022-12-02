@@ -9,7 +9,7 @@ jobs:
       with:
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
         src_path: /.
-        dst_path: /labs/
+        dst_path: /pages-module-template/
         dst_owner: inmanturbo
         dst_repo_name: inmanturbo.github.io
         dst_branch: main
